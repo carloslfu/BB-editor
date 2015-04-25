@@ -20,16 +20,16 @@ The advantages of this approach:
 - Fast understanding of large codes, useful for education and productivity of develop enviroments.
 
 Visit the [BB-editor group][BB-editor-group] for discuss, get feedback or propose your ideas.
-[Board on trello][BB-editor-trello].
 
 [BB-editor-group]: https://groups.google.com/forum/#!forum/bb-editor
-[BB-editor-trello]: https://trello.com/b/B7bNibhe/bb-editor
 [blockly-git]: https://github.com/google/blockly
 [snap-git]: https://github.com/jmoenig/Snap--Build-Your-Own-Blocks
 
 ##Roadmap
 
-In order of priority:
+See the [Board on trello][BB-editor-trello]. In order of priority:
+
+[BB-editor-trello]: https://trello.com/b/B7bNibhe/bb-editor
 
 ### BBlocks
 
