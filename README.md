@@ -13,7 +13,7 @@ The advantages of this approach:
 
 - All code are structured, not is just plain code. You only work with blocks that represents ideas, behaviors and entities.
 - Easliy refactoring, all code is linked. Feel free to refactor large codes without a pain.
-- Visualize your code by levels: atomic, functional, modular ...
+- Visualize your code by levels: low (atomic), medium, high ...
 - Recognize code patterns allows make automatized refactors (awesome!).
 - Organize and give extra meaning to your code.
 - Personalize the graphical representation of your code, this will be very fun.
