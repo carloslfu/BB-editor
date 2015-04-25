@@ -2,7 +2,7 @@
 
 This is a research project for achieve a full embedded visual programing editor. This project is mainly inspired in [Blockly][blockly-git] and [Snap-BYOB][snap-git] awesome projects.
 
-The goal is to get anyone to create, modify and learn to program without being an expert, make accessible all technology and facilities to expert programmers to view, manage and modify programs efficiently. Imagine no plain code and work in a touch devices and 
+The goal is to get anyone to create, modify and learn to program without being an expert, make accessible all technology and facilities to expert programmers to view, manage and modify programs efficiently. Imagine no plain code, work in your mobile device and navigate across your code fastly.
 
 To achieve this goal the editor should be:
 
