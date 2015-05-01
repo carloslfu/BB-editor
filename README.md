@@ -37,10 +37,11 @@ I'm working in [BBlocks][BBlocks-git] a flexible GUI for Blockly, this must work
 
 [BBlocks-git]: https://github.com/carloslfu/BBlocks.js
 
-### Blockly with stamines
+### Blocklify
 
 The main goal of this project is allows to Blockly based projects some features that for modularity and flexibility must be extesions for the Blockly core.
-The [Blocklify][blocklify-git] project lives here.
+
+The idea is experiment with blocklify, understand and get some knowledge about the GUI and architecture requirements of BB-editor (Blocklify is developed with BBlocks simultaneously).
 
 [blocklify-git]: https://github.com/carloslfu/blocklify
 
