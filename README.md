@@ -33,7 +33,7 @@ See the [Board on trello][BB-editor-trello]. In order of priority:
 
 ### BBlocks
 
-I'm working in [BBlocks][BBlocks-git] a flexible GUI for Blockly, this must work like a blockly extension ( for use in Blockly with stamines ).
+I'm working in [BBlocks][BBlocks-git] a flexible GUI for Blockly, this must work like a blockly extension ( for use with in Blocklify ).
 
 [BBlocks-git]: https://github.com/carloslfu/BBlocks.js
 
