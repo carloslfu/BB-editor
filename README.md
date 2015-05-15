@@ -2,7 +2,7 @@
 
 This is a research project for achieve an embeddable visual programing editor. This project is mainly inspired in [Blockly][blockly-git] and [Snap-BYOB][snap-git] awesome projects.
 
-The goal is to get anyone to create, modify and learn to program without being an expert, make accessible all technology and facilities to expert programmers to view, manage and modify programs efficiently. Imagine no plain code, work in your mobile device and navigate across your code fastly.
+The goal is to get anyone to create, modify and learn to program without being an expert, make accessible all technology and facilities to expert programmers to view, manage and modify programs efficiently. Imagine no plain code, work in your mobile device and navigate across your code fastly. This mainly will be a code editor not only a text editor.
 
 To achieve this goal the editor should be:
 
@@ -33,7 +33,7 @@ See the [Board on trello][BB-editor-trello]. In order of priority:
 
 ### BBlocks
 
-I'm working in [BBlocks][BBlocks-git] a flexible GUI for Blockly, this must work like a blockly extension ( for use with in Blocklify ).
+I'm working in [BBlocks][BBlocks-git] a flexible GUI for BB editor, this must work like a blockly extension ( for use with Blocklify ).
 
 [BBlocks-git]: https://github.com/carloslfu/BBlocks.js
 
