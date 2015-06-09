@@ -1,4 +1,4 @@
-# BB editor
+# BB editor (alpha)
 
 This is a research project for achieve an embeddable visual programing editor. This project is mainly inspired in [Blockly][blockly-git] and [Snap-BYOB][snap-git] awesome projects.
 
@@ -48,3 +48,5 @@ The idea is experiment with [blocklify][blocklify-git], understand and get some 
 ### BB editor implementation
 
 Finally, with an awesome GUI and some useful features, all is ready for make a full editor for embedded visual programing.
+
+Now many experiments has started (alpha status). See DOCS.md for information.
