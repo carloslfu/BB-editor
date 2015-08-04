@@ -52,7 +52,7 @@ The main goal of this project is allows to Blockly based projects some features 
 Features that will be implemented:
 
 - Easy code import/export.
-- Zomming like Goolge Maps.
+- Zomming like Goolge Maps(now a PR in the [Blockly core](https://github.com/google/blockly/pull/125)).
 - Undo/Redo.
 - Pure SVG controls (textinput, dropdown, contextmenu ...).
 
