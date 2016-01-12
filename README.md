@@ -53,7 +53,7 @@ Features that will be implemented:
 
 - Easy code import/export.
 - Zomming like Goolge Maps(now a PR in the [Blockly core](https://github.com/google/blockly/pull/125)).
-- Undo/Redo.
+- Undo/Redo (now planned for [blockly core 2016](https://docs.google.com/document/d/1KyF6X7yrc3phPqLGzpPdngLMMzZ0jvXOFK5W43IAwbY/mobilebasic)).
 - Pure SVG controls (textinput, dropdown, contextmenu ...).
 
 The idea is experiment with Blockly-extensions, understand the needs and get some knowledge about the GUI and architecture requirements of BB-editor (Blockly-extensions are developed with BBlocks simultaneously).
